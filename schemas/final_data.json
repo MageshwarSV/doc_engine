@@ -1,0 +1,22 @@
+{
+  "invoice_no": "6978019245",
+  "invoice_date": "01.09.2025",
+  "lr_no": "5247",
+  "eway_bill_no": "591870391184",
+  "eway_bill_date": "01.09.2025",
+  "eway_valid_upto": "02-09-2025 23:59:00",
+  "consignor": "UltraTech Cement Limited",
+  "consignee": "GIANT CEMENT TRADING PRIVATE L",
+  "billing_party": "GIANT CEMENT TRADING PRIVATE L",
+  "delivery_address": "PRIVATE L 1136034101/, 70, SUSILA BAI COMPLEX, STATION ROAD, RADHA NAGAR RECIPIENT CADE : 641052G008, TAMIL NADU",
+  "source": "ARAKONAM",
+  "destination": "CHROMPET",
+  "vehicle_no": "TN73U1383",
+  "driver_mobile": "8996751938",
+  "goods_name": "PPC",
+  "actual_weight": "10.000",
+  "rate": "630.00",
+  "irn": "9e93db01324fcad010a7b",
+  "eway_bill_no_goods": "591870391184",
+  "erp_entry_date": "01.09.2025"
+}
